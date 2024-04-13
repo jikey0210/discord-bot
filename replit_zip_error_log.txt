@@ -1,0 +1,10 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit:v8-20240329-787bc7d","time":"2024-04-13T16:10:03Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/fxparser","time":"2024-04-13T16:10:05Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/he","time":"2024-04-13T16:10:05Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/html-to-text","time":"2024-04-13T16:10:05Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/lyrics-finder","time":"2024-04-13T16:10:05Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mustache","time":"2024-04-13T16:10:05Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/node","time":"2024-04-13T16:10:05Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/systeminformation","time":"2024-04-13T16:10:05Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uuid","time":"2024-04-13T16:10:05Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@aws-sdk/middleware-retry/node_modules/.bin/uuid","time":"2024-04-13T16:10:06Z"}
